@@ -1,1 +1,1 @@
-# apigateway-go
+# apigateway-golang
